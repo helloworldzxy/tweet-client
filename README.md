@@ -3,6 +3,8 @@
 
 1. initial commit
 
+本章的服务器端为serverTest.js
+
 使用`http`模块的`request`方法创建一个新的http Client Request对象。
 
 服务器会返回不同的数据块`chunk`。
