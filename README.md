@@ -15,4 +15,9 @@
 
 client.js: `qs.stringfy()`将对象转化为url编码过的数据。
 
+3. twitter api
+
+翻墙了仍然连接超时，不知道为什么...?
+
+
 
