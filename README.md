@@ -17,7 +17,16 @@ client.js: `qs.stringfy()`将对象转化为url编码过的数据。
 
 3. twitter api
 
-翻墙了仍然连接超时，不知道为什么...?
+翻墙了仍然连接超时?
+
+4. superagent
+
+npm
+
+通过superagent可以将发送请求和处理请求的流程自动处理：发送请求-获取的JSON-自动解析；
+GET请求的查询字符串也会自动编码作为URL的一部分。
+
+superagent也可以处理POST, PUT, HEAD, DELETE等请求。
 
 
 
